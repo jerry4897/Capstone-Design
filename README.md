@@ -1,7 +1,7 @@
 ## Capstone Design 2 Project
 > #### 학번 : 20121566
 > #### 이름 : 김석환
-
+---
 # Project Name : No Waiting
 
 ## Why?
