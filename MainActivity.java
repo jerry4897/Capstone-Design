@@ -16,8 +16,6 @@ import android.view.View;
 
 public class MainActivity extends Activity {
 
-
-
     @Override
 
     protected void onCreate(Bundle savedInstanceState) {
@@ -27,8 +25,6 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
 
     }
-
-
 
     //Button을 클릭했을 때 호출되는 callback 메소드
 
@@ -52,15 +48,6 @@ public class MainActivity extends Activity {
                 finish();
 
                 android.os.Process.killProcess(android.os.Process.myPid());
-
-                //i= new Intent(this, ClientActivity.class);
-
-                //startActivity(i);
-
-                //break;
-
         }
-
     }
-
 }
