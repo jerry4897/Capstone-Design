@@ -4,14 +4,20 @@
 ---
 
 ## Why?
-* 식당에 가서 너무 긴 대기 시간을 보고 좌절하여 다른 음식점을 가야 했던 과거의 경험에 착안하여 개발하게 되었다.
+* Want to find price worth restaurant easily.
+* Want to check bookability and status of resataurant easily
+* Dont want to wait for enjoying restaurant.
+* Want to prevent No-Show.
 
-* 각종 음식점들과 연결하여 가맹여부와 대기 여부 등을 알 수 있게 하여 원활한 식사에 도움을 준다.
+## Goals for customer
+* Easy booking mobile application for customer.
+* You dont need to wait if you reservate and choose menu with 'No Waiting'.
+* You can find review and status of restaurant.
 
-## Goal
-* Application을 이용하여 waiting이 없는 식당을 골라서 갈 수 있다.
-
-* Waiting 시간을 효율적으로 이용할 수 있게하여 원활한 음식점 이용에 도움을 준다.
+## Goals for owner
+* Easy restaurant managing application for owner.
+* You can promote your restaurant easily.
+* You can increase customer turnover ratio.
 
 ## Main Function
 * 가고자 하는 음식점의 빈자리 현황, 대기 손님의 여부와 예상 대기시간을 실시간으로 알 수 있다.
