@@ -20,10 +20,17 @@
 * You can increase customer turnover ratio.
 
 ## Main Function
-* 가고자 하는 음식점의 빈자리 현황, 대기 손님의 여부와 예상 대기시간을 실시간으로 알 수 있다.
+* You can check empty seats, waiting lines, expectation time of waiting in real time service.
+* You dont need to wait, just go to the restaurant up to time.
+* Reservate without pressure even long time ago, payment will go on 10 minutes before your reservation time.
+* Connection with customer and owner(chat service or push alarm) increases conveniences.
+* Collect data.(customer age, area, most prefer menu, weather affection, etc.)
 
-* 음식점에 가서 waiting을 걸어둘 경우 어플과 연동되어 굳이 음식점 앞에서 기다리는 것이 아닌 다른 업무를 보다가 적합한 시간 때에 식당에 입장할 수 있다.
+## How to earn money
+* Receive commission from restaurant owner.
+* Receive public relation cost from owner.
+* Serve 'restaurant data anaylizing service'
 
 ## Expectancy Effects
-* 원활하고 효율적인 식당 이용이 가능하다.
-* 기존 맛집 어플에 구현되어 있던 음식점 메뉴등의 기본적인 사항들을 서비스하여 보다 유용한 서비스가 가능하다!
+* You can enjoy restaurant smoothly and easily.
+* Owner can manage restaurant easily.
