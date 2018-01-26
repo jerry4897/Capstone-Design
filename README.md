@@ -1,8 +1,7 @@
 ## Capstone Design 2 Project
-> #### 학번 : 20121566
-> #### 이름 : 김석환
----
 # Project Name : No Waiting
+> #### member : SukHwan Kim, KyungSuk Kim, Injong Jang, JoingIn Jeong
+---
 
 ## Why?
 * 식당에 가서 너무 긴 대기 시간을 보고 좌절하여 다른 음식점을 가야 했던 과거의 경험에 착안하여 개발하게 되었다.
